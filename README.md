@@ -1,5 +1,5 @@
 # foodApp
-Initial java for food app (name TBD)
+Initial Java for food app (name TBD)
 
 Food App Backend Processing
 0.	Overview
